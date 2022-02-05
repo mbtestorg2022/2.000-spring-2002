@@ -4,33 +4,580 @@ title: Calendar
 uid: c5cb4d6f-c6a7-da38-9bb2-3e354333c4d4
 ---
 
-| DAY # | LECTURES | TOPICS | LECTURE  {{< br >}}ACTIVITIES | LAB MACHINE | BASE  {{< br >}}ASSIGNMENTS |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Introduction to How Machines Work | Intro, 5 "F"s, Control Volumes, Flow Balances, Units | Lab/Lecture Scheduling | No Lab | Camera |
-| 2 | How Machines are Designed and Manufactured | Units, Balances, Project Management, Intro to Manufacturing | Camera Discussion | No Lab | Resume and Job Sign Up |
-| 3 | Mechanical Engineering | Overview of Mechanical Engineering | &nbsp; | CAD I: Software Interface | &nbsp; |
-| 4 | How Machines are Manufactured (cont.) | Casting, Sheet metal, Turning, Milling, Extrusion | Manufacturing Processes | CAD I: Software Interface | Manufacturing Scavenger Hunt |
-| 5 | Automotive Manufacturing | Manufacturing Engineering | &nbsp; | CAD Lab Recitation | Finish CAD Tutorial |
-| 6 | Machine Components and Systems (MCS) | Gears Trains, Linkages, Screws | Tape Player and Lego Gear Box | Tractor Transmissions | MCS PS: Screw Driver |
-| 7 | CAD II: Design Intent Basics | Design Intent | Pump Assembly | Tractor Transmissions | Design Intent: Etch-A-Sketch |
-| 8 | Fluid Components and Systems (FCS) | Bernoulli, Components, Systems Analysis | Drill Pump | Pumps, Brakes, and Dampers | FCS PS: External Gear Pumps |
-| 9 | Project I: Kick Off | Project Description, Group Discussion | Project Planning | Pumps, Brakes, and Dampers | Project I |
-| 10 | Electro-Mechanical Machines | I X B, Circuits, DCPM Motors | Motor and Disk Drive | Sewing Machine, Suspension | Project I |
-| 11 | CAD III: Design Intent Advanced Concepts | Design Intent | &nbsp; | Sewing Machine, Suspension | Project I and Test I-Analytic |
-| 12 | CAD IV: Project Recitations | Project I CAD Help Sessions | &nbsp; | Test I-CAD Portion | Project I |
-| 13 | Guest Speakers: MIT FSAE Talk/Tour | Automotive Racing and FSAE Team | Tour: FSAE | Test I-CAD Portion | Project I |
-| 14 | Machines that Store and Transfer Energy | Compliant Elements, Power Plants | Catapult Design Contest | Alarm Clock and Toaster | Project I |
-| 15 | Tour: Cogeneration/ Gas Turbine Lab/Cryo Lab | Turbines and Jet Engines | Tour: Energy Labs | Alarm Clock and Toaster | Project II |
-| 16 | Design Consulting | Design Consulting | &nbsp; | Briggs and Stratton | Project II |
-| 17 | Project II Updates | Strategy, Schedule, and Risk Assessment, Basic Physics | &nbsp; | Briggs and Stratton | Project II |
-| 18 | Bio-Engineering | Bio-Engineering in MIT ME | Enter the Matrix | No Lab | Project II |
-| 19 | Service Learning | Service Learning | &nbsp; | Engine/Transmission | Project II |
-| 20 | Project II Updates | Concepts, Physics, Modeling, Schedule Check | &nbsp; | Engine/Transmission | Project II |
-| 21 | Concept Design and Large Systems | Large System Design | &nbsp; | Engine/Transmission | Project II |
-| 22 | Project II Updates/Recitation | Implementation Check | &nbsp; | Engine/Transmission | Project II |
-| 23 | Automotive Design/Manufacturing Research | Automotive Manufacturing Research | &nbsp; | Tour: Car Wash | Project II |
-| 24 | Work On Project II | Design Consultations/Final Preparations | &nbsp; | Tour: Car Wash | Project II |
-| 25 | Design Project Presentation/Contest | &nbsp; | Test: II Hands On | Project II |
-| 26 | Design Project Presentation/Contest | &nbsp; | Test: II Hands On | Project II 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+DAY #
+{{< thclose >}}
+{{< thopen >}}
+LECTURES
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURE  
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+LAB MACHINE
+{{< thclose >}}
+{{< thopen >}}
+BASE  
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to How Machines Work
+{{< tdclose >}}
+{{< tdopen >}}
+Intro, 5 "F"s, Control Volumes, Flow Balances, Units
+{{< tdclose >}}
+{{< tdopen >}}
+Lab/Lecture Scheduling
+{{< tdclose >}}
+{{< tdopen >}}
+No Lab
+{{< tdclose >}}
+{{< tdopen >}}
+Camera
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+How Machines are Designed and Manufactured
+{{< tdclose >}}
+{{< tdopen >}}
+Units, Balances, Project Management, Intro to Manufacturing
+{{< tdclose >}}
+{{< tdopen >}}
+Camera Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+No Lab
+{{< tdclose >}}
+{{< tdopen >}}
+Resume and Job Sign Up
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Mechanical Engineering
+{{< tdclose >}}
+{{< tdopen >}}
+Overview of Mechanical Engineering
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+CAD I: Software Interface
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+How Machines are Manufactured (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Casting, Sheet metal, Turning, Milling, Extrusion
+{{< tdclose >}}
+{{< tdopen >}}
+Manufacturing Processes
+{{< tdclose >}}
+{{< tdopen >}}
+CAD I: Software Interface
+{{< tdclose >}}
+{{< tdopen >}}
+Manufacturing Scavenger Hunt
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Automotive Manufacturing
+{{< tdclose >}}
+{{< tdopen >}}
+Manufacturing Engineering
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+CAD Lab Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+Finish CAD Tutorial
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Machine Components and Systems (MCS)
+{{< tdclose >}}
+{{< tdopen >}}
+Gears Trains, Linkages, Screws
+{{< tdclose >}}
+{{< tdopen >}}
+Tape Player and Lego Gear Box
+{{< tdclose >}}
+{{< tdopen >}}
+Tractor Transmissions
+{{< tdclose >}}
+{{< tdopen >}}
+MCS PS: Screw Driver
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+CAD II: Design Intent Basics
+{{< tdclose >}}
+{{< tdopen >}}
+Design Intent
+{{< tdclose >}}
+{{< tdopen >}}
+Pump Assembly
+{{< tdclose >}}
+{{< tdopen >}}
+Tractor Transmissions
+{{< tdclose >}}
+{{< tdopen >}}
+Design Intent: Etch-A-Sketch
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Fluid Components and Systems (FCS)
+{{< tdclose >}}
+{{< tdopen >}}
+Bernoulli, Components, Systems Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+Drill Pump
+{{< tdclose >}}
+{{< tdopen >}}
+Pumps, Brakes, and Dampers
+{{< tdclose >}}
+{{< tdopen >}}
+FCS PS: External Gear Pumps
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Project I: Kick Off
+{{< tdclose >}}
+{{< tdopen >}}
+Project Description, Group Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+Project Planning
+{{< tdclose >}}
+{{< tdopen >}}
+Pumps, Brakes, and Dampers
+{{< tdclose >}}
+{{< tdopen >}}
+Project I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Electro-Mechanical Machines
+{{< tdclose >}}
+{{< tdopen >}}
+I X B, Circuits, DCPM Motors
+{{< tdclose >}}
+{{< tdopen >}}
+Motor and Disk Drive
+{{< tdclose >}}
+{{< tdopen >}}
+Sewing Machine, Suspension
+{{< tdclose >}}
+{{< tdopen >}}
+Project I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+CAD III: Design Intent Advanced Concepts
+{{< tdclose >}}
+{{< tdopen >}}
+Design Intent
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Sewing Machine, Suspension
+{{< tdclose >}}
+{{< tdopen >}}
+Project I and Test I-Analytic
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+CAD IV: Project Recitations
+{{< tdclose >}}
+{{< tdopen >}}
+Project I CAD Help Sessions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Test I-CAD Portion
+{{< tdclose >}}
+{{< tdopen >}}
+Project I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Guest Speakers: MIT FSAE Talk/Tour
+{{< tdclose >}}
+{{< tdopen >}}
+Automotive Racing and FSAE Team
+{{< tdclose >}}
+{{< tdopen >}}
+Tour: FSAE
+{{< tdclose >}}
+{{< tdopen >}}
+Test I-CAD Portion
+{{< tdclose >}}
+{{< tdopen >}}
+Project I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Machines that Store and Transfer Energy
+{{< tdclose >}}
+{{< tdopen >}}
+Compliant Elements, Power Plants
+{{< tdclose >}}
+{{< tdopen >}}
+Catapult Design Contest
+{{< tdclose >}}
+{{< tdopen >}}
+Alarm Clock and Toaster
+{{< tdclose >}}
+{{< tdopen >}}
+Project I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Tour: Cogeneration/ Gas Turbine Lab/Cryo Lab
+{{< tdclose >}}
+{{< tdopen >}}
+Turbines and Jet Engines
+{{< tdclose >}}
+{{< tdopen >}}
+Tour: Energy Labs
+{{< tdclose >}}
+{{< tdopen >}}
+Alarm Clock and Toaster
+{{< tdclose >}}
+{{< tdopen >}}
+Project II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Design Consulting
+{{< tdclose >}}
+{{< tdopen >}}
+Design Consulting
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Briggs and Stratton
+{{< tdclose >}}
+{{< tdopen >}}
+Project II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Project II Updates
+{{< tdclose >}}
+{{< tdopen >}}
+Strategy, Schedule, and Risk Assessment, Basic Physics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Briggs and Stratton
+{{< tdclose >}}
+{{< tdopen >}}
+Project II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Bio-Engineering
+{{< tdclose >}}
+{{< tdopen >}}
+Bio-Engineering in MIT ME
+{{< tdclose >}}
+{{< tdopen >}}
+Enter the Matrix
+{{< tdclose >}}
+{{< tdopen >}}
+No Lab
+{{< tdclose >}}
+{{< tdopen >}}
+Project II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Service Learning
+{{< tdclose >}}
+{{< tdopen >}}
+Service Learning
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Engine/Transmission
+{{< tdclose >}}
+{{< tdopen >}}
+Project II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Project II Updates
+{{< tdclose >}}
+{{< tdopen >}}
+Concepts, Physics, Modeling, Schedule Check
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Engine/Transmission
+{{< tdclose >}}
+{{< tdopen >}}
+Project II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Concept Design and Large Systems
+{{< tdclose >}}
+{{< tdopen >}}
+Large System Design
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Engine/Transmission
+{{< tdclose >}}
+{{< tdopen >}}
+Project II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Project II Updates/Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+Implementation Check
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Engine/Transmission
+{{< tdclose >}}
+{{< tdopen >}}
+Project II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Automotive Design/Manufacturing Research
+{{< tdclose >}}
+{{< tdopen >}}
+Automotive Manufacturing Research
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Tour: Car Wash
+{{< tdclose >}}
+{{< tdopen >}}
+Project II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Work On Project II
+{{< tdclose >}}
+{{< tdopen >}}
+Design Consultations/Final Preparations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Tour: Car Wash
+{{< tdclose >}}
+{{< tdopen >}}
+Project II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Design Project Presentation/Contest
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Test: II Hands On
+{{< tdclose >}}
+{{< tdopen >}}
+Project II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Design Project Presentation/Contest
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Test: II Hands On
+{{< tdclose >}}
+{{< tdopen >}}
+Project II
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Additional assignments may be given with base assignments.
