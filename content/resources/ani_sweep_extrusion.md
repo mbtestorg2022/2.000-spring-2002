@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: dad906e4-1520-d508-5e9a-a500b3834027
 resourcetype: Image
 title: ani_sweep_extrusion.gif
 uid: 4950b45d-b783-e384-b4b6-8cff7ca1f140

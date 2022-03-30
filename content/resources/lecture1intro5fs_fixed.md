@@ -3,6 +3,7 @@ content_type: resource
 description: '2.000 How and Why Machines Work, Lecture # 1'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-000-how-and-why-machines-work-spring-2002/c9706c4df4ab4e5fe6ae13665cfb8486_lecture1intro5fs_fixed.pdf
 file_type: application/pdf
+parent_uid: 0fab8b18-8e5f-9ce5-04a3-bc041dcea1b0
 resourcetype: Document
 title: lecture1intro5fs_fixed.pdf
 uid: c9706c4d-f4ab-4e5f-e6ae-13665cfb8486
